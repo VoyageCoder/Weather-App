@@ -7,7 +7,7 @@
 searchButton = document.getElementById("search-button");
 searchButton.onclick = function () {
 
-const api_key = "b26d246649504e089d221d387ebabda5";
+const api_key = "INSERT API KEY HERE";
 const cityName = document.getElementById("city").value;
 const url = `https://api.weatherbit.io/v2.0/current?city=${cityName}&key=${api_key}`;
 const tempDisplay = document.getElementById("temperature");
