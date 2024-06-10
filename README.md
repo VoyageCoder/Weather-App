@@ -1,0 +1,1 @@
+NOTE: If you wish to use this app, you must first replace the API key located inside the app.js file. You will see a variable called "const api_key" and you must change the wording in the quote marks to your api key (DO NOT REMOVE THE QUOTE MARKS). Enjoy!
